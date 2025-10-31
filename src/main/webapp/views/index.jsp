@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-		<h1>This is jsp page piyush</h1>
-		
-
+		<h2>This is index file</h2>
 </body>
 </html>
